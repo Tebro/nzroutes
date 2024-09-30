@@ -88,7 +88,7 @@ func main() {
 		for _, pilot := range routeRelevantPilots {
 			depFieldRoutes, ok := routesData.Routes[pilot.FlightPlan.Departure]
 			if !ok {
-				log.Printf("No routes for departure field %s\n", pilot.FlightPlan.Departure)
+				fmt.Printf("Flight %s has a departure airfield with no routes: %s\n", pilot.Callsign, pilot.FlightPlan.Departure)
 				continue
 			}
 			var relevantRoutes []*nzroutes.AirfieldRoute
