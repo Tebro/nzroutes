@@ -12,6 +12,7 @@ import (
 	"github.com/Tebro/nzroutes/pkg/nzairfields"
 	"github.com/Tebro/nzroutes/pkg/nzroutes"
 	"github.com/Tebro/nzroutes/pkg/routevalidation"
+	"github.com/Tebro/nzroutes/pkg/termtable"
 	"github.com/Tebro/nzroutes/pkg/vatsimmetar"
 )
 
@@ -83,8 +84,7 @@ func main() {
 
 		utils.ClearTerm()
 		fmt.Println("NZRoutes, relevant routes")
-		fmt.Println("Callsign | Departure -> Arrival | Route ID | Route Points | Remarks | Valid?")
-		fmt.Println("=====================================================================")
+		table := termtable.New("Callsign", "Departure", "Arrival", "Route ID", "Route Points", "Remarks", "Valid?")
 
 		for _, pilot := range routeRelevantPilots {
 			depFieldRoutes, ok := routesData.Routes[pilot.FlightPlan.Departure]
@@ -100,22 +100,23 @@ func main() {
 			}
 
 			if len(relevantRoutes) > 1 {
-				fmt.Printf("%s", pilot.Callsign)
+				table.AddRow(pilot.Callsign, pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival)
 				for _, route := range relevantRoutes {
 					validationResult := "Valid"
 					if !routevalidation.ValidatePilotRoute(pilot.FlightPlan, route) {
 						validationResult = "Invalid"
 					}
-					fmt.Printf("		| %s -> %s | %s | %s | %s | %s\n", pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, route.Id, route.RoutePoints(), route.Remarks, validationResult)
+					table.AddRow("", "", "", route.Id, route.RoutePoints(), route.Remarks.String(), validationResult)
 				}
 			} else {
 				validationResult := "Valid"
 				if !routevalidation.ValidatePilotRoute(pilot.FlightPlan, relevantRoutes[0]) {
 					validationResult = "Invalid"
 				}
-				fmt.Printf("%s | %s -> %s | %s | %s | %s | %s\n", pilot.Callsign, pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, relevantRoutes[0].Id, relevantRoutes[0].RoutePoints(), relevantRoutes[0].Remarks, validationResult)
+				table.AddRow(pilot.Callsign, pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, relevantRoutes[0].Id, relevantRoutes[0].RoutePoints(), relevantRoutes[0].Remarks.String(), validationResult)
 			}
 		}
+		table.Print()
 
 		metarArrivalRelevantPilots := filterCloseToArrivalPilots(relevant, airfieldsData)
 		metarDepartureRelevantPilots := filterCloseToDepPilots(relevant, airfieldsData)
