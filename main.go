@@ -11,6 +11,7 @@ import (
 	"github.com/Tebro/efinmet/pkg/vatsimdata"
 	"github.com/Tebro/nzroutes/pkg/nzairfields"
 	"github.com/Tebro/nzroutes/pkg/nzroutes"
+	"github.com/Tebro/nzroutes/pkg/routevalidation"
 	"github.com/Tebro/nzroutes/pkg/vatsimmetar"
 )
 
@@ -82,7 +83,7 @@ func main() {
 
 		utils.ClearTerm()
 		fmt.Println("NZRoutes, relevant routes")
-		fmt.Println("Callsign | Departure -> Arrival | Route ID | Route Points | Remarks")
+		fmt.Println("Callsign | Departure -> Arrival | Route ID | Route Points | Remarks | Valid?")
 		fmt.Println("=====================================================================")
 
 		for _, pilot := range routeRelevantPilots {
@@ -101,10 +102,18 @@ func main() {
 			if len(relevantRoutes) > 1 {
 				fmt.Printf("%s", pilot.Callsign)
 				for _, route := range relevantRoutes {
-					fmt.Printf("		| %s -> %s | %s | %s | %s\n", pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, route.Id, route.RoutePoints(), route.Remarks)
+					validationResult := "Valid"
+					if !routevalidation.ValidatePilotRoute(pilot.FlightPlan, route) {
+						validationResult = "Invalid"
+					}
+					fmt.Printf("		| %s -> %s | %s | %s | %s | %s\n", pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, route.Id, route.RoutePoints(), route.Remarks, validationResult)
 				}
 			} else {
-				fmt.Printf("%s | %s -> %s | %s | %s | %s\n", pilot.Callsign, pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, relevantRoutes[0].Id, relevantRoutes[0].RoutePoints(), relevantRoutes[0].Remarks)
+				validationResult := "Valid"
+				if !routevalidation.ValidatePilotRoute(pilot.FlightPlan, relevantRoutes[0]) {
+					validationResult = "Invalid"
+				}
+				fmt.Printf("%s | %s -> %s | %s | %s | %s | %s\n", pilot.Callsign, pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, relevantRoutes[0].Id, relevantRoutes[0].RoutePoints(), relevantRoutes[0].Remarks, validationResult)
 			}
 		}
 
