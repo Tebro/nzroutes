@@ -82,7 +82,7 @@ func main() {
 
 		utils.ClearTerm()
 		fmt.Println("NZRoutes, relevant routes")
-		fmt.Println("Callsign | Departure | Arrival | Route ID | Route Points | Remarks")
+		fmt.Println("Callsign | Departure -> Arrival | Route ID | Route Points | Remarks")
 		fmt.Println("=====================================================================")
 
 		for _, pilot := range routeRelevantPilots {
@@ -101,10 +101,10 @@ func main() {
 			if len(relevantRoutes) > 1 {
 				fmt.Printf("%s", pilot.Callsign)
 				for _, route := range relevantRoutes {
-					fmt.Printf("		| %s | %s | %s | %s | %s\n", pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, route.Id, route.RoutePoints(), route.Remarks)
+					fmt.Printf("		| %s -> %s | %s | %s | %s\n", pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, route.Id, route.RoutePoints(), route.Remarks)
 				}
 			} else {
-				fmt.Printf("%s | %s | %s | %s | %s | %s\n", pilot.Callsign, pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, relevantRoutes[0].Id, relevantRoutes[0].RoutePoints(), relevantRoutes[0].Remarks)
+				fmt.Printf("%s | %s -> %s | %s | %s | %s\n", pilot.Callsign, pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, relevantRoutes[0].Id, relevantRoutes[0].RoutePoints(), relevantRoutes[0].Remarks)
 			}
 		}
 
