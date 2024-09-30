@@ -1,0 +1,4931 @@
+[
+  {
+    "icao": "NZAA",
+    "name": "Auckland",
+    "location": {
+      "lat": -37.00806,
+      "long": 174.79167
+    },
+    "runways": [
+      {
+        "name": "05R",
+        "position": {
+          "lat": -37.01632,
+          "long": 174.77078
+        }
+      },
+      {
+        "name": "23L",
+        "position": {
+          "lat": -37.00666,
+          "long": 174.80574
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZAH",
+    "name": "Taharoa Ironsands",
+    "location": {
+      "lat": -38.17083,
+      "long": 174.70444
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZAM",
+    "name": "Ashburton Medical Centre",
+    "location": {
+      "lat": -43.89419,
+      "long": 171.74797
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZAN",
+    "name": "Anama",
+    "location": {
+      "lat": -43.79375,
+      "long": 171.39394
+    },
+    "runways": [
+      {
+        "name": "03",
+        "position": {
+          "lat": -43.79375,
+          "long": 171.39394
+        }
+      },
+      {
+        "name": "21",
+        "position": {
+          "lat": -43.79375,
+          "long": 171.39394
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZAP",
+    "name": "Taupo",
+    "location": {
+      "lat": -38.73972,
+      "long": 176.08444
+    },
+    "runways": [
+      {
+        "name": "10",
+        "position": {
+          "lat": -38.74098,
+          "long": 176.07591
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -38.7444,
+          "long": 176.08247
+        }
+      },
+      {
+        "name": "17",
+        "position": {
+          "lat": -38.73472,
+          "long": 176.08695
+        }
+      },
+      {
+        "name": "35",
+        "position": {
+          "lat": -38.74679,
+          "long": 176.08284
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZAR",
+    "name": "Ardmore",
+    "location": {
+      "lat": -37.02972,
+      "long": 174.97333
+    },
+    "runways": [
+      {
+        "name": "03",
+        "position": {
+          "lat": -37.03457,
+          "long": 174.96976
+        }
+      },
+      {
+        "name": "21",
+        "position": {
+          "lat": -37.02704,
+          "long": 174.97933
+        }
+      },
+      {
+        "name": "07",
+        "position": {
+          "lat": -37.02898,
+          "long": 174.96913
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -37.02896,
+          "long": 174.97404
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZAS",
+    "name": "Ashburton",
+    "location": {
+      "lat": -43.90333,
+      "long": 171.79667
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -43.90535,
+          "long": 171.80038
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -43.9019,
+          "long": 171.80454
+        }
+      },
+      {
+        "name": "06",
+        "position": {
+          "lat": -43.90304,
+          "long": 171.79511
+        }
+      },
+      {
+        "name": "24",
+        "position": {
+          "lat": -43.90244,
+          "long": 171.80768
+        }
+      },
+      {
+        "name": "11",
+        "position": {
+          "lat": -43.90333,
+          "long": 171.79667
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -43.90333,
+          "long": 171.79667
+        }
+      },
+      {
+        "name": "16",
+        "position": {
+          "lat": -43.90333,
+          "long": 171.79667
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -43.90333,
+          "long": 171.79667
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZAW",
+    "name": "Auckland Harbour",
+    "location": {
+      "lat": -36.83391,
+      "long": 174.76349
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZBA",
+    "name": "Balclutha",
+    "location": {
+      "lat": -46.24333,
+      "long": 169.75
+    },
+    "runways": [
+      {
+        "name": "07",
+        "position": {
+          "lat": -46.24501,
+          "long": 169.74443
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -46.24626,
+          "long": 169.75337
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZBW",
+    "name": "Burwood Hospital",
+    "location": {
+      "lat": -43.47972,
+      "long": 172.68694
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZCB",
+    "name": "Centre Bush",
+    "location": {
+      "lat": -46.04,
+      "long": 168.31167
+    },
+    "runways": [
+      {
+        "name": "16",
+        "position": {
+          "lat": -46.03774,
+          "long": 168.31264
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -46.04366,
+          "long": 168.31169
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZCG",
+    "name": "Centennial Park",
+    "location": {
+      "lat": -38.66528,
+      "long": 176.13472
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -38.66464,
+          "long": 176.13434
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -38.66144,
+          "long": 176.14264
+        }
+      },
+      {
+        "name": "07",
+        "position": {
+          "lat": -38.66528,
+          "long": 176.13472
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -38.66528,
+          "long": 176.13472
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZCH",
+    "name": "Christchurch",
+    "location": {
+      "lat": -43.48944,
+      "long": 172.53444
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -43.49763,
+          "long": 172.52211
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -43.47499,
+          "long": 172.54829
+        }
+      },
+      {
+        "name": "11",
+        "position": {
+          "lat": -43.48428,
+          "long": 172.52441
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -43.49438,
+          "long": 172.54088
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZCI",
+    "name": "Chatham Is/Tuuta",
+    "location": {
+      "lat": -43.81261,
+      "long": -176.46829
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZCL",
+    "name": "Cloudy Bay",
+    "location": {
+      "lat": -41.45611,
+      "long": 174.01417
+    },
+    "runways": [
+      {
+        "name": "15",
+        "position": {
+          "lat": -41.45189,
+          "long": 174.0135
+        }
+      },
+      {
+        "name": "33",
+        "position": {
+          "lat": -41.45973,
+          "long": 174.01524
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZCS",
+    "name": "Cromwell Racecourse",
+    "location": {
+      "lat": -45.04861,
+      "long": 169.17056
+    },
+    "runways": [
+      {
+        "name": "09",
+        "position": {
+          "lat": -45.04637,
+          "long": 169.16243
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -45.049,
+          "long": 169.17015
+        }
+      },
+      {
+        "name": "18",
+        "position": {
+          "lat": -45.04261,
+          "long": 169.17496
+        }
+      },
+      {
+        "name": "36",
+        "position": {
+          "lat": -45.04857,
+          "long": 169.17105
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZCW",
+    "name": "Cromwell",
+    "location": {
+      "lat": -44.98,
+      "long": 169.21833
+    },
+    "runways": [
+      {
+        "name": "18",
+        "position": {
+          "lat": -44.97256,
+          "long": 169.22092
+        }
+      },
+      {
+        "name": "36",
+        "position": {
+          "lat": -44.98563,
+          "long": 169.2142
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZCX",
+    "name": "Coromandel",
+    "location": {
+      "lat": -36.79167,
+      "long": 175.50861
+    },
+    "runways": [
+      {
+        "name": "12",
+        "position": {
+          "lat": -36.78715,
+          "long": 175.50508
+        }
+      },
+      {
+        "name": "30",
+        "position": {
+          "lat": -36.79071,
+          "long": 175.50807
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZDA",
+    "name": "Dargaville",
+    "location": {
+      "lat": -35.93972,
+      "long": 173.89361
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -35.94134,
+          "long": 173.888
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -35.93722,
+          "long": 173.89764
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZDC",
+    "name": "Dunedin City",
+    "location": {
+      "lat": -45.88333,
+      "long": 170.50833
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZDH",
+    "name": "Dunedin Hospital",
+    "location": {
+      "lat": -45.86887,
+      "long": 170.50967
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZDN",
+    "name": "Dunedin",
+    "location": {
+      "lat": -45.92806,
+      "long": 170.19833
+    },
+    "runways": [
+      {
+        "name": "03",
+        "position": {
+          "lat": -45.93392,
+          "long": 170.18747
+        }
+      },
+      {
+        "name": "21",
+        "position": {
+          "lat": -45.92438,
+          "long": 170.20779
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZDU",
+    "name": "Dunstan Hospital",
+    "location": {
+      "lat": -45.20093,
+      "long": 169.33168
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZDV",
+    "name": "Dannevirke",
+    "location": {
+      "lat": -40.22833,
+      "long": 176.07861
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -40.23581,
+          "long": 176.07486
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -40.22751,
+          "long": 176.08401
+        }
+      },
+      {
+        "name": "08",
+        "position": {
+          "lat": -40.22779,
+          "long": 176.07706
+        }
+      },
+      {
+        "name": "26",
+        "position": {
+          "lat": -40.22897,
+          "long": 176.08304
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZDY",
+    "name": "Drury",
+    "location": {
+      "lat": -37.09639,
+      "long": 174.97528
+    },
+    "runways": [
+      {
+        "name": "18",
+        "position": {
+          "lat": -37.09639,
+          "long": 174.97528
+        }
+      },
+      {
+        "name": "36",
+        "position": {
+          "lat": -37.09639,
+          "long": 174.97528
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZES",
+    "name": "Wharepapa South",
+    "location": {
+      "lat": -38.14389,
+      "long": 175.55028
+    },
+    "runways": [
+      {
+        "name": "07",
+        "position": {
+          "lat": -38.14384,
+          "long": 175.54706
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -38.14378,
+          "long": 175.55328
+        }
+      },
+      {
+        "name": "17",
+        "position": {
+          "lat": -38.14389,
+          "long": 175.55028
+        }
+      },
+      {
+        "name": "35",
+        "position": {
+          "lat": -38.14389,
+          "long": 175.55028
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZEV",
+    "name": "Eves Valley",
+    "location": {
+      "lat": -41.33972,
+      "long": 173.0775
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZFE",
+    "name": "Fernside Fields",
+    "location": {
+      "lat": -43.3175,
+      "long": 172.51167
+    },
+    "runways": [
+      {
+        "name": "06",
+        "position": {
+          "lat": -43.3176,
+          "long": 172.50849
+        }
+      },
+      {
+        "name": "24",
+        "position": {
+          "lat": -43.31746,
+          "long": 172.51397
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZFF",
+    "name": "Forest Field",
+    "location": {
+      "lat": -43.38583,
+      "long": 172.36056
+    },
+    "runways": [
+      {
+        "name": "05",
+        "position": {
+          "lat": -43.38599,
+          "long": 172.35919
+        }
+      },
+      {
+        "name": "23",
+        "position": {
+          "lat": -43.38464,
+          "long": 172.36481
+        }
+      },
+      {
+        "name": "10",
+        "position": {
+          "lat": -43.38453,
+          "long": 172.35774
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -43.38689,
+          "long": 172.36339
+        }
+      },
+      {
+        "name": "18",
+        "position": {
+          "lat": -43.38583,
+          "long": 172.36056
+        }
+      },
+      {
+        "name": "36",
+        "position": {
+          "lat": -43.38583,
+          "long": 172.36056
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZFG",
+    "name": "Fern Gully",
+    "location": {
+      "lat": -46.895,
+      "long": 168.11167
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZFH",
+    "name": "Fox",
+    "location": {
+      "lat": -43.46306,
+      "long": 169.99972
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZFI",
+    "name": "Feilding",
+    "location": {
+      "lat": -40.25593,
+      "long": 175.60592
+    },
+    "runways": [
+      {
+        "name": "10",
+        "position": {
+          "lat": -40.25385,
+          "long": 175.60113
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -40.25799,
+          "long": 175.61071
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZFJ",
+    "name": "Franz Josef",
+    "location": {
+      "lat": -43.36306,
+      "long": 170.13444
+    },
+    "runways": [
+      {
+        "name": "10",
+        "position": {
+          "lat": -43.36019,
+          "long": 170.12839
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -43.36418,
+          "long": 170.13614
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZFL",
+    "name": "Flat Hills",
+    "location": {
+      "lat": -39.89556,
+      "long": 175.65333
+    },
+    "runways": [
+      {
+        "name": "03",
+        "position": {
+          "lat": -39.89825,
+          "long": 175.64926
+        }
+      },
+      {
+        "name": "21",
+        "position": {
+          "lat": -39.89304,
+          "long": 175.65726
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZFO",
+    "name": "Fox Glacier",
+    "location": {
+      "lat": -43.46192,
+      "long": 170.01899
+    },
+    "runways": [
+      {
+        "name": "09",
+        "position": {
+          "lat": -43.46049,
+          "long": 170.0152
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -43.46206,
+          "long": 170.01965
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZFP",
+    "name": "Foxpine",
+    "location": {
+      "lat": -40.45667,
+      "long": 175.27028
+    },
+    "runways": [
+      {
+        "name": "09",
+        "position": {
+          "lat": -40.45517,
+          "long": 175.26532
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -40.45852,
+          "long": 175.27624
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZFR",
+    "name": "Fox River",
+    "location": {
+      "lat": -43.46861,
+      "long": 170.00194
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZFT",
+    "name": "Flat Point",
+    "location": {
+      "lat": -41.24306,
+      "long": 175.96028
+    },
+    "runways": [
+      {
+        "name": "17",
+        "position": {
+          "lat": -41.24146,
+          "long": 175.9608
+        }
+      },
+      {
+        "name": "35",
+        "position": {
+          "lat": -41.24499,
+          "long": 175.95973
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZGA",
+    "name": "Galatea",
+    "location": {
+      "lat": -38.40861,
+      "long": 176.74194
+    },
+    "runways": [
+      {
+        "name": "01",
+        "position": {
+          "lat": -38.40718,
+          "long": 176.74165
+        }
+      },
+      {
+        "name": "19",
+        "position": {
+          "lat": -38.39974,
+          "long": 176.74687
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZGB",
+    "name": "Great Barrier",
+    "location": {
+      "lat": -36.24139,
+      "long": 175.47194
+    },
+    "runways": [
+      {
+        "name": "06",
+        "position": {
+          "lat": -36.24173,
+          "long": 175.4664
+        }
+      },
+      {
+        "name": "24",
+        "position": {
+          "lat": -36.24113,
+          "long": 175.47214
+        }
+      },
+      {
+        "name": "10",
+        "position": {
+          "lat": -36.2388,
+          "long": 175.46403
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -36.2431,
+          "long": 175.47297
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZGC",
+    "name": "Gore",
+    "location": {
+      "lat": -46.15667,
+      "long": 168.89833
+    },
+    "runways": [
+      {
+        "name": "01",
+        "position": {
+          "lat": -46.16188,
+          "long": 168.8898
+        }
+      },
+      {
+        "name": "19",
+        "position": {
+          "lat": -46.15315,
+          "long": 168.89926
+        }
+      },
+      {
+        "name": "06",
+        "position": {
+          "lat": -46.15642,
+          "long": 168.89607
+        }
+      },
+      {
+        "name": "24",
+        "position": {
+          "lat": -46.15617,
+          "long": 168.90324
+        }
+      },
+      {
+        "name": "12",
+        "position": {
+          "lat": -46.15365,
+          "long": 168.89775
+        }
+      },
+      {
+        "name": "30",
+        "position": {
+          "lat": -46.15778,
+          "long": 168.90144
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZGH",
+    "name": "Glacier Country",
+    "location": {
+      "lat": -43.38722,
+      "long": 170.18
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZGM",
+    "name": "Greymouth",
+    "location": {
+      "lat": -42.46167,
+      "long": 171.19
+    },
+    "runways": [
+      {
+        "name": "01",
+        "position": {
+          "lat": -42.46606,
+          "long": 171.18721
+        }
+      },
+      {
+        "name": "19",
+        "position": {
+          "lat": -42.45864,
+          "long": 171.19327
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZGO",
+    "name": "Gore Hospital",
+    "location": {
+      "lat": -46.10269,
+      "long": 168.93847
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZGS",
+    "name": "Gisborne",
+    "location": {
+      "lat": -38.66333,
+      "long": 177.97833
+    },
+    "runways": [
+      {
+        "name": "03",
+        "position": {
+          "lat": -38.66601,
+          "long": 177.97197
+        }
+      },
+      {
+        "name": "21",
+        "position": {
+          "lat": -38.65897,
+          "long": 177.98201
+        }
+      },
+      {
+        "name": "09",
+        "position": {
+          "lat": -38.65961,
+          "long": 177.97014
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -38.664,
+          "long": 177.98244
+        }
+      },
+      {
+        "name": "14",
+        "position": {
+          "lat": -38.6583,
+          "long": 177.97498
+        }
+      },
+      {
+        "name": "32",
+        "position": {
+          "lat": -38.66969,
+          "long": 177.97904
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZGT",
+    "name": "Glentanner",
+    "location": {
+      "lat": -43.90772,
+      "long": 170.12903
+    },
+    "runways": [
+      {
+        "name": "15",
+        "position": {
+          "lat": -43.90609,
+          "long": 170.12775
+        }
+      },
+      {
+        "name": "33",
+        "position": {
+          "lat": -43.91543,
+          "long": 170.12994
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZGY",
+    "name": "Glenorchy",
+    "location": {
+      "lat": -44.87167,
+      "long": 168.3975
+    },
+    "runways": [
+      {
+        "name": "14",
+        "position": {
+          "lat": -44.86857,
+          "long": 168.39676
+        }
+      },
+      {
+        "name": "32",
+        "position": {
+          "lat": -44.87444,
+          "long": 168.39902
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZHA",
+    "name": "Hawera",
+    "location": {
+      "lat": -39.55333,
+      "long": 174.26694
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -39.55673,
+          "long": 174.26738
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -39.55139,
+          "long": 174.27296
+        }
+      },
+      {
+        "name": "07",
+        "position": {
+          "lat": -39.55157,
+          "long": 174.26509
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -39.55177,
+          "long": 174.27299
+        }
+      },
+      {
+        "name": "14",
+        "position": {
+          "lat": -39.55008,
+          "long": 174.26617
+        }
+      },
+      {
+        "name": "32",
+        "position": {
+          "lat": -39.55795,
+          "long": 174.26982
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZHB",
+    "name": "Helena Bay",
+    "location": {
+      "lat": -35.42306,
+      "long": 174.36316
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZHC",
+    "name": "Wanaka Lakes Health Centre",
+    "location": {
+      "lat": -44.70933,
+      "long": 169.13651
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZHF",
+    "name": "Huka Falls",
+    "location": {
+      "lat": -38.64326,
+      "long": 176.08824
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZHH",
+    "name": "Waikato Hospital",
+    "location": {
+      "lat": -37.80628,
+      "long": 175.2809
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZHK",
+    "name": "Hokitika",
+    "location": {
+      "lat": -42.71361,
+      "long": 170.98528
+    },
+    "runways": [
+      {
+        "name": "03",
+        "position": {
+          "lat": -42.71339,
+          "long": 170.98026
+        }
+      },
+      {
+        "name": "21",
+        "position": {
+          "lat": -42.70776,
+          "long": 170.99207
+        }
+      },
+      {
+        "name": "12",
+        "position": {
+          "lat": -42.71096,
+          "long": 170.98443
+        }
+      },
+      {
+        "name": "30",
+        "position": {
+          "lat": -42.71984,
+          "long": 170.99224
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZHM",
+    "name": "Hanmer",
+    "location": {
+      "lat": -42.56972,
+      "long": 172.79806
+    },
+    "runways": [
+      {
+        "name": "06",
+        "position": {
+          "lat": -42.56972,
+          "long": 172.79806
+        }
+      },
+      {
+        "name": "24",
+        "position": {
+          "lat": -42.56972,
+          "long": 172.79806
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZHN",
+    "name": "Hamilton",
+    "location": {
+      "lat": -37.86639,
+      "long": 175.33528
+    },
+    "runways": [
+      {
+        "name": "07",
+        "position": {
+          "lat": -37.86184,
+          "long": 175.32507
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -37.86234,
+          "long": 175.33209
+        }
+      },
+      {
+        "name": "18L",
+        "position": {
+          "lat": -37.85581,
+          "long": 175.33617
+        }
+      },
+      {
+        "name": "36R",
+        "position": {
+          "lat": -37.87365,
+          "long": 175.32971
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZHP",
+    "name": "Lake Haupiri",
+    "location": {
+      "lat": -42.60111,
+      "long": 171.69917
+    },
+    "runways": [
+      {
+        "name": "11",
+        "position": {
+          "lat": -42.59887,
+          "long": 171.69568
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -42.60282,
+          "long": 171.70239
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZHS",
+    "name": "Hastings",
+    "location": {
+      "lat": -39.64652,
+      "long": 176.76673
+    },
+    "runways": [
+      {
+        "name": "01",
+        "position": {
+          "lat": -39.64827,
+          "long": 176.76416
+        }
+      },
+      {
+        "name": "19",
+        "position": {
+          "lat": -39.64065,
+          "long": 176.76965
+        }
+      },
+      {
+        "name": "11",
+        "position": {
+          "lat": -39.64403,
+          "long": 176.76212
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -39.64806,
+          "long": 176.76816
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZHT",
+    "name": "Haast",
+    "location": {
+      "lat": -43.86667,
+      "long": 169.04028
+    },
+    "runways": [
+      {
+        "name": "16",
+        "position": {
+          "lat": -43.86261,
+          "long": 169.04089
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -43.86854,
+          "long": 169.04133
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZJA",
+    "name": "Tauranga Hospital",
+    "location": {
+      "lat": -37.70694,
+      "long": 176.14806
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJB",
+    "name": "Wairau Hospital",
+    "location": {
+      "lat": -41.53667,
+      "long": 173.94361
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJC",
+    "name": "Christchurch Hospital",
+    "location": {
+      "lat": -43.53294,
+      "long": 172.62389
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJD",
+    "name": "Thames Hospital",
+    "location": {
+      "lat": -37.13583,
+      "long": 175.54453
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJE",
+    "name": "Dargaville Hospital",
+    "location": {
+      "lat": -35.92889,
+      "long": 173.87556
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJF",
+    "name": "Whakatane Hospital",
+    "location": {
+      "lat": -37.96556,
+      "long": 176.97667
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJG",
+    "name": "Gisborne Hospital",
+    "location": {
+      "lat": -38.63861,
+      "long": 178.00361
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJH",
+    "name": "Hastings Hospital",
+    "location": {
+      "lat": -39.63,
+      "long": 176.82389
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJI",
+    "name": "Bay Of Islands Hospital",
+    "location": {
+      "lat": -35.38694,
+      "long": 174.06944
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJJ",
+    "name": "Christchurch Hospital Hagley",
+    "location": {
+      "lat": -43.53694,
+      "long": 172.62111
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJK",
+    "name": "Kaitaia Hospital",
+    "location": {
+      "lat": -35.11842,
+      "long": 173.26092
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJL",
+    "name": "Auckland Hospital",
+    "location": {
+      "lat": -36.85917,
+      "long": 174.76889
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJM",
+    "name": "Palmerston North Hospital",
+    "location": {
+      "lat": -40.33778,
+      "long": 175.61944
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJN",
+    "name": "North Shore Hospital",
+    "location": {
+      "lat": -36.78167,
+      "long": 174.75861
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJO",
+    "name": "Rotorua Hospital",
+    "location": {
+      "lat": -38.13194,
+      "long": 176.24667
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJP",
+    "name": "Te Puia Springs Hospital",
+    "location": {
+      "lat": -38.05484,
+      "long": 178.30443
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJQ",
+    "name": "Taranaki Base Hospital",
+    "location": {
+      "lat": -39.07333,
+      "long": 174.05528
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJR",
+    "name": "Whangarei Hospital",
+    "location": {
+      "lat": -35.73472,
+      "long": 174.30306
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJS",
+    "name": "Southland-Kew Hospital",
+    "location": {
+      "lat": -46.43722,
+      "long": 168.35944
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJT",
+    "name": "Taumarunui Hospital",
+    "location": {
+      "lat": -38.88972,
+      "long": 175.25139
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJU",
+    "name": "Whanganui Hospital",
+    "location": {
+      "lat": -39.94333,
+      "long": 175.03917
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJW",
+    "name": "Rawene Hospital",
+    "location": {
+      "lat": -35.40717,
+      "long": 173.50633
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJX",
+    "name": "Tokoroa Hospital",
+    "location": {
+      "lat": -38.23194,
+      "long": 175.86083
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJY",
+    "name": "Wairoa Hospital",
+    "location": {
+      "lat": -39.0425,
+      "long": 177.41417
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZJZ",
+    "name": "Taupo Hospital",
+    "location": {
+      "lat": -38.69861,
+      "long": 176.09889
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZKC",
+    "name": "Kaikoura Medical Centre",
+    "location": {
+      "lat": -42.40432,
+      "long": 173.68094
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZKD",
+    "name": "Motu Kaikoura Island",
+    "location": {
+      "lat": -36.17806,
+      "long": 175.32444
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -36.17812,
+          "long": 175.3248
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -36.17555,
+          "long": 175.32993
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZKE",
+    "name": "Waiheke",
+    "location": {
+      "lat": -36.80833,
+      "long": 175.08528
+    },
+    "runways": [
+      {
+        "name": "17",
+        "position": {
+          "lat": -36.80833,
+          "long": 175.08528
+        }
+      },
+      {
+        "name": "35",
+        "position": {
+          "lat": -36.80833,
+          "long": 175.08528
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZKF",
+    "name": "Kaipara Flats",
+    "location": {
+      "lat": -36.40639,
+      "long": 174.58722
+    },
+    "runways": [
+      {
+        "name": "07",
+        "position": {
+          "lat": -36.40617,
+          "long": 174.58348
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -36.40594,
+          "long": 174.59114
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZKH",
+    "name": "Kenepuru Hospital",
+    "location": {
+      "lat": -41.145,
+      "long": 174.83528
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZKI",
+    "name": "Kaikoura",
+    "location": {
+      "lat": -42.425,
+      "long": 173.60528
+    },
+    "runways": [
+      {
+        "name": "05",
+        "position": {
+          "lat": -42.42632,
+          "long": 173.6003
+        }
+      },
+      {
+        "name": "23",
+        "position": {
+          "lat": -42.42387,
+          "long": 173.60802
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZKJ",
+    "name": "Kaikoura Beachfront",
+    "location": {
+      "lat": -42.395,
+      "long": 173.68083
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZKK",
+    "name": "Kerikeri/Bay Of Islands",
+    "location": {
+      "lat": -35.26278,
+      "long": 173.91194
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -35.26366,
+          "long": 173.91409
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -35.26023,
+          "long": 173.91757
+        }
+      },
+      {
+        "name": "15",
+        "position": {
+          "lat": -35.25242,
+          "long": 173.91051
+        }
+      },
+      {
+        "name": "33",
+        "position": {
+          "lat": -35.2628,
+          "long": 173.91375
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZKM",
+    "name": "Karamea",
+    "location": {
+      "lat": -41.23667,
+      "long": 172.105
+    },
+    "runways": [
+      {
+        "name": "01",
+        "position": {
+          "lat": -41.24084,
+          "long": 172.10324
+        }
+      },
+      {
+        "name": "19",
+        "position": {
+          "lat": -41.23347,
+          "long": 172.10855
+        }
+      },
+      {
+        "name": "17",
+        "position": {
+          "lat": -41.23622,
+          "long": 172.10452
+        }
+      },
+      {
+        "name": "35",
+        "position": {
+          "lat": -41.24089,
+          "long": 172.10394
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZKN",
+    "name": "Kensington Park",
+    "location": {
+      "lat": -35.70461,
+      "long": 174.31273
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZKO",
+    "name": "Kaikohe",
+    "location": {
+      "lat": -35.45111,
+      "long": 173.81722
+    },
+    "runways": [
+      {
+        "name": "13",
+        "position": {
+          "lat": -35.45111,
+          "long": 173.81722
+        }
+      },
+      {
+        "name": "31",
+        "position": {
+          "lat": -35.45111,
+          "long": 173.81722
+        }
+      },
+      {
+        "name": "17",
+        "position": {
+          "lat": -35.45111,
+          "long": 173.81722
+        }
+      },
+      {
+        "name": "35",
+        "position": {
+          "lat": -35.45111,
+          "long": 173.81722
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZKP",
+    "name": "Koputaroa",
+    "location": {
+      "lat": -40.55944,
+      "long": 175.33306
+    },
+    "runways": [
+      {
+        "name": "10",
+        "position": {
+          "lat": -40.55934,
+          "long": 175.33268
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -40.56163,
+          "long": 175.33776
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZKT",
+    "name": "Kaitaia",
+    "location": {
+      "lat": -35.07,
+      "long": 173.28528
+    },
+    "runways": [
+      {
+        "name": "12",
+        "position": {
+          "lat": -35.06454,
+          "long": 173.28101
+        }
+      },
+      {
+        "name": "30",
+        "position": {
+          "lat": -35.07451,
+          "long": 173.29046
+        }
+      },
+      {
+        "name": "18",
+        "position": {
+          "lat": -35.06885,
+          "long": 173.28823
+        }
+      },
+      {
+        "name": "36",
+        "position": {
+          "lat": -35.07661,
+          "long": 173.28474
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZKU",
+    "name": "Kupe",
+    "location": {
+      "lat": -39.85267,
+      "long": 174.11975
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZKY",
+    "name": "Kowhai",
+    "location": {
+      "lat": -39.84528,
+      "long": 176.42139
+    },
+    "runways": [
+      {
+        "name": "09",
+        "position": {
+          "lat": -39.84636,
+          "long": 176.42413
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -39.84749,
+          "long": 176.42877
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZLA",
+    "name": "Loburn Abbey",
+    "location": {
+      "lat": -43.23361,
+      "long": 172.49417
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -43.23531,
+          "long": 172.48773
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -43.23293,
+          "long": 172.49487
+        }
+      },
+      {
+        "name": "07",
+        "position": {
+          "lat": -43.23361,
+          "long": 172.49417
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -43.23361,
+          "long": 172.49417
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZLE",
+    "name": "Lake Station/Nelson Lakes",
+    "location": {
+      "lat": -41.75917,
+      "long": 172.74583
+    },
+    "runways": [
+      {
+        "name": "11",
+        "position": {
+          "lat": -41.7552,
+          "long": 172.73993
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -41.76421,
+          "long": 172.75488
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZLF",
+    "name": "Rotorua Lakefront",
+    "location": {
+      "lat": -38.12944,
+      "long": 176.25278
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZLM",
+    "name": "Lumsden Medical Centre",
+    "location": {
+      "lat": -45.74105,
+      "long": 168.44236
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZLT",
+    "name": "Taupo Water",
+    "location": {
+      "lat": -38.73167,
+      "long": 176.035
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZLX",
+    "name": "Alexandra",
+    "location": {
+      "lat": -45.21167,
+      "long": 169.37333
+    },
+    "runways": [
+      {
+        "name": "01",
+        "position": {
+          "lat": -45.21374,
+          "long": 169.36848
+        }
+      },
+      {
+        "name": "19",
+        "position": {
+          "lat": -45.20917,
+          "long": 169.37206
+        }
+      },
+      {
+        "name": "14",
+        "position": {
+          "lat": -45.20632,
+          "long": 169.36899
+        }
+      },
+      {
+        "name": "32",
+        "position": {
+          "lat": -45.21644,
+          "long": 169.37433
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZMA",
+    "name": "Matamata",
+    "location": {
+      "lat": -37.73444,
+      "long": 175.74194
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -37.73331,
+          "long": 175.73735
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -37.72984,
+          "long": 175.74532
+        }
+      },
+      {
+        "name": "10",
+        "position": {
+          "lat": -37.73465,
+          "long": 175.73666
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -37.74069,
+          "long": 175.74881
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZMB",
+    "name": "Mechanics Bay",
+    "location": {
+      "lat": -36.84667,
+      "long": 174.78861
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZMC",
+    "name": "Mount Cook",
+    "location": {
+      "lat": -43.765,
+      "long": 170.13333
+    },
+    "runways": [
+      {
+        "name": "13",
+        "position": {
+          "lat": -43.76037,
+          "long": 170.13095
+        }
+      },
+      {
+        "name": "31",
+        "position": {
+          "lat": -43.77235,
+          "long": 170.13858
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZME",
+    "name": "Mercer",
+    "location": {
+      "lat": -37.25917,
+      "long": 175.11472
+    },
+    "runways": [
+      {
+        "name": "09",
+        "position": {
+          "lat": -37.25904,
+          "long": 175.11441
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -37.26281,
+          "long": 175.12595
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZMF",
+    "name": "Milford Sound",
+    "location": {
+      "lat": -44.67333,
+      "long": 167.92333
+    },
+    "runways": [
+      {
+        "name": "11",
+        "position": {
+          "lat": -44.67142,
+          "long": 167.91909
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -44.67545,
+          "long": 167.92704
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZMG",
+    "name": "Mangonui",
+    "location": {
+      "lat": -34.99558,
+      "long": 173.4645
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZMH",
+    "name": "Wairarapa Hospital",
+    "location": {
+      "lat": -40.9475,
+      "long": 175.67528
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZMJ",
+    "name": "Martins Bay",
+    "location": {
+      "lat": -44.36361,
+      "long": 168.01917
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -44.36766,
+          "long": 168.01384
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -44.36433,
+          "long": 168.01845
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZMK",
+    "name": "Motueka",
+    "location": {
+      "lat": -41.12333,
+      "long": 172.98861
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -41.12337,
+          "long": 172.98781
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -41.11824,
+          "long": 172.99486
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZML",
+    "name": "Mid Waiho Loop",
+    "location": {
+      "lat": -43.35361,
+      "long": 170.19083
+    },
+    "runways": [
+      {
+        "name": "09",
+        "position": {
+          "lat": -43.35361,
+          "long": 170.19083
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -43.35361,
+          "long": 170.19083
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZMO",
+    "name": "Te Anau / Manapouri",
+    "location": {
+      "lat": -45.53306,
+      "long": 167.65
+    },
+    "runways": [
+      {
+        "name": "08",
+        "position": {
+          "lat": -45.53157,
+          "long": 167.64319
+        }
+      },
+      {
+        "name": "26",
+        "position": {
+          "lat": -45.5345,
+          "long": 167.66307
+        }
+      },
+      {
+        "name": "14",
+        "position": {
+          "lat": -45.52853,
+          "long": 167.64392
+        }
+      },
+      {
+        "name": "32",
+        "position": {
+          "lat": -45.53873,
+          "long": 167.64868
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZMR",
+    "name": "Murchison",
+    "location": {
+      "lat": -41.79667,
+      "long": 172.315
+    },
+    "runways": [
+      {
+        "name": "13",
+        "position": {
+          "lat": -41.79667,
+          "long": 172.315
+        }
+      },
+      {
+        "name": "31",
+        "position": {
+          "lat": -41.79667,
+          "long": 172.315
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZMS",
+    "name": "Masterton",
+    "location": {
+      "lat": -40.97333,
+      "long": 175.63361
+    },
+    "runways": [
+      {
+        "name": "06",
+        "position": {
+          "lat": -40.97587,
+          "long": 175.62755
+        }
+      },
+      {
+        "name": "24",
+        "position": {
+          "lat": -40.97362,
+          "long": 175.64055
+        }
+      },
+      {
+        "name": "10",
+        "position": {
+          "lat": -40.97242,
+          "long": 175.62718
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -40.97723,
+          "long": 175.63704
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZMW",
+    "name": "Makarora",
+    "location": {
+      "lat": -44.23167,
+      "long": 169.23028
+    },
+    "runways": [
+      {
+        "name": "17",
+        "position": {
+          "lat": -44.23167,
+          "long": 169.23028
+        }
+      },
+      {
+        "name": "35",
+        "position": {
+          "lat": -44.23167,
+          "long": 169.23028
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZMX",
+    "name": "Raroa",
+    "location": {
+      "lat": -39.97267,
+      "long": 173.29767
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZNE",
+    "name": "North Shore",
+    "location": {
+      "lat": -36.65667,
+      "long": 174.65528
+    },
+    "runways": [
+      {
+        "name": "03",
+        "position": {
+          "lat": -36.65814,
+          "long": 174.65311
+        }
+      },
+      {
+        "name": "21",
+        "position": {
+          "lat": -36.65428,
+          "long": 174.65826
+        }
+      },
+      {
+        "name": "09",
+        "position": {
+          "lat": -36.65581,
+          "long": 174.65403
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -36.65697,
+          "long": 174.65942
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZNF",
+    "name": "Norfolk",
+    "location": {
+      "lat": -39.20447,
+      "long": 174.22333
+    },
+    "runways": [
+      {
+        "name": "01",
+        "position": {
+          "lat": -39.20916,
+          "long": 174.2193
+        }
+      },
+      {
+        "name": "19",
+        "position": {
+          "lat": -39.20234,
+          "long": 174.22493
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZNH",
+    "name": "Nelson Hospital",
+    "location": {
+      "lat": -41.28833,
+      "long": 173.27222
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZNP",
+    "name": "New Plymouth",
+    "location": {
+      "lat": -39.00861,
+      "long": 174.17917
+    },
+    "runways": [
+      {
+        "name": "05",
+        "position": {
+          "lat": -39.01045,
+          "long": 174.17007
+        }
+      },
+      {
+        "name": "23",
+        "position": {
+          "lat": -39.00564,
+          "long": 174.18389
+        }
+      },
+      {
+        "name": "14",
+        "position": {
+          "lat": -39.00054,
+          "long": 174.17865
+        }
+      },
+      {
+        "name": "32",
+        "position": {
+          "lat": -39.01075,
+          "long": 174.18451
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZNR",
+    "name": "Napier",
+    "location": {
+      "lat": -39.46583,
+      "long": 176.87
+    },
+    "runways": [
+      {
+        "name": "07",
+        "position": {
+          "lat": -39.46454,
+          "long": 176.85761
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -39.46435,
+          "long": 176.87154
+        }
+      },
+      {
+        "name": "16",
+        "position": {
+          "lat": -39.46199,
+          "long": 176.86804
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -39.47769,
+          "long": 176.86631
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZNS",
+    "name": "Nelson",
+    "location": {
+      "lat": -41.29833,
+      "long": 173.22111
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -41.30138,
+          "long": 173.21895
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -41.29221,
+          "long": 173.22949
+        }
+      },
+      {
+        "name": "06",
+        "position": {
+          "lat": -41.29613,
+          "long": 173.21699
+        }
+      },
+      {
+        "name": "24",
+        "position": {
+          "lat": -41.29545,
+          "long": 173.22417
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZNV",
+    "name": "Invercargill",
+    "location": {
+      "lat": -46.415,
+      "long": 168.32
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -46.41841,
+          "long": 168.30226
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -46.4111,
+          "long": 168.32474
+        }
+      },
+      {
+        "name": "12",
+        "position": {
+          "lat": -46.41256,
+          "long": 168.31474
+        }
+      },
+      {
+        "name": "30",
+        "position": {
+          "lat": -46.41776,
+          "long": 168.32088
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZOA",
+    "name": "Omarama",
+    "location": {
+      "lat": -44.48667,
+      "long": 169.98611
+    },
+    "runways": [
+      {
+        "name": "09L",
+        "position": {
+          "lat": -44.48667,
+          "long": 169.98611
+        }
+      },
+      {
+        "name": "27R",
+        "position": {
+          "lat": -44.48667,
+          "long": 169.98611
+        }
+      },
+      {
+        "name": "09R",
+        "position": {
+          "lat": -44.48347,
+          "long": 169.97693
+        }
+      },
+      {
+        "name": "27L",
+        "position": {
+          "lat": -44.48879,
+          "long": 169.99367
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZOB",
+    "name": "Ocean Beach",
+    "location": {
+      "lat": -46.58972,
+      "long": 168.30556
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZOF",
+    "name": "Omaha Flats",
+    "location": {
+      "lat": -36.34611,
+      "long": 174.76028
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -36.34809,
+          "long": 174.75553
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -36.34559,
+          "long": 174.76146
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZOG",
+    "name": "Makarora Heliport",
+    "location": {
+      "lat": -44.23309,
+      "long": 169.23002
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZOH",
+    "name": "Ohakea",
+    "location": {
+      "lat": -40.20669,
+      "long": 175.3869
+    },
+    "runways": [
+      {
+        "name": "05",
+        "position": {
+          "lat": -40.2083,
+          "long": 175.37953
+        }
+      },
+      {
+        "name": "23",
+        "position": {
+          "lat": -40.20668,
+          "long": 175.38585
+        }
+      },
+      {
+        "name": "09",
+        "position": {
+          "lat": -40.20266,
+          "long": 175.37432
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -40.20936,
+          "long": 175.39977
+        }
+      },
+      {
+        "name": "09L",
+        "position": {
+          "lat": -40.20667,
+          "long": 175.38694
+        }
+      },
+      {
+        "name": "27R",
+        "position": {
+          "lat": -40.20667,
+          "long": 175.38694
+        }
+      },
+      {
+        "name": "09R",
+        "position": {
+          "lat": -40.2052,
+          "long": 175.37679
+        }
+      },
+      {
+        "name": "27L",
+        "position": {
+          "lat": -40.20774,
+          "long": 175.38652
+        }
+      },
+      {
+        "name": "11",
+        "position": {
+          "lat": -40.20519,
+          "long": 175.37686
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -40.20985,
+          "long": 175.384
+        }
+      },
+      {
+        "name": "15",
+        "position": {
+          "lat": -40.1997,
+          "long": 175.38604
+        }
+      },
+      {
+        "name": "33",
+        "position": {
+          "lat": -40.21723,
+          "long": 175.3905
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZOI",
+    "name": "Ongaio Island",
+    "location": {
+      "lat": -40.67361,
+      "long": 172.66444
+    },
+    "runways": [
+      {
+        "name": "11",
+        "position": {
+          "lat": -40.67361,
+          "long": 172.66444
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -40.67361,
+          "long": 172.66444
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZOM",
+    "name": "Omaka",
+    "location": {
+      "lat": -41.54,
+      "long": 173.92194
+    },
+    "runways": [
+      {
+        "name": "01",
+        "position": {
+          "lat": -41.5451,
+          "long": 173.92056
+        }
+      },
+      {
+        "name": "19",
+        "position": {
+          "lat": -41.53809,
+          "long": 173.9274
+        }
+      },
+      {
+        "name": "07",
+        "position": {
+          "lat": -41.54,
+          "long": 173.92194
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -41.54,
+          "long": 173.92194
+        }
+      },
+      {
+        "name": "12",
+        "position": {
+          "lat": -41.54,
+          "long": 173.92194
+        }
+      },
+      {
+        "name": "30",
+        "position": {
+          "lat": -41.54,
+          "long": 173.92194
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZON",
+    "name": "Oban",
+    "location": {
+      "lat": -46.90056,
+      "long": 168.12444
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZOP",
+    "name": "Opotiki",
+    "location": {
+      "lat": -38.0225,
+      "long": 177.30722
+    },
+    "runways": [
+      {
+        "name": "09",
+        "position": {
+          "lat": -38.02184,
+          "long": 177.30013
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -38.02419,
+          "long": 177.31133
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZOR",
+    "name": "Oamaru Hospital",
+    "location": {
+      "lat": -45.09956,
+      "long": 170.96703
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZOS",
+    "name": "Otehei Bay",
+    "location": {
+      "lat": -35.22265,
+      "long": 174.23013
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZOT",
+    "name": "Otaki",
+    "location": {
+      "lat": -40.78361,
+      "long": 175.15111
+    },
+    "runways": [
+      {
+        "name": "16",
+        "position": {
+          "lat": -40.78361,
+          "long": 175.15111
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -40.78361,
+          "long": 175.15111
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZOU",
+    "name": "Oamaru",
+    "location": {
+      "lat": -44.97,
+      "long": 171.08167
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -44.96864,
+          "long": 171.08174
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -44.96361,
+          "long": 171.08879
+        }
+      },
+      {
+        "name": "11",
+        "position": {
+          "lat": -44.96914,
+          "long": 171.08203
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -44.97474,
+          "long": 171.08991
+        }
+      },
+      {
+        "name": "18",
+        "position": {
+          "lat": -44.96185,
+          "long": 171.08517
+        }
+      },
+      {
+        "name": "36",
+        "position": {
+          "lat": -44.97217,
+          "long": 171.07786
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZOW",
+    "name": "Onetangi",
+    "location": {
+      "lat": -36.80508,
+      "long": 175.07084
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZOX",
+    "name": "Okiwi Station",
+    "location": {
+      "lat": -36.14639,
+      "long": 175.41861
+    },
+    "runways": [
+      {
+        "name": "18",
+        "position": {
+          "lat": -36.14319,
+          "long": 175.41961
+        }
+      },
+      {
+        "name": "36",
+        "position": {
+          "lat": -36.14944,
+          "long": 175.41642
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZPA",
+    "name": "Paihia",
+    "location": {
+      "lat": -35.28231,
+      "long": 174.09142
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZPH",
+    "name": "Pudding Hill",
+    "location": {
+      "lat": -43.58722,
+      "long": 171.52778
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -43.58722,
+          "long": 171.52778
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -43.58722,
+          "long": 171.52778
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZPI",
+    "name": "Parakai",
+    "location": {
+      "lat": -36.65167,
+      "long": 174.43333
+    },
+    "runways": [
+      {
+        "name": "07",
+        "position": {
+          "lat": -36.65195,
+          "long": 174.43114
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -36.65194,
+          "long": 174.43855
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZPK",
+    "name": "Pikes Point",
+    "location": {
+      "lat": -36.93028,
+      "long": 174.81306
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZPM",
+    "name": "Palmerston North",
+    "location": {
+      "lat": -40.32056,
+      "long": 175.61694
+    },
+    "runways": [
+      {
+        "name": "07",
+        "position": {
+          "lat": -40.31986,
+          "long": 175.60487
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -40.31984,
+          "long": 175.62467
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZPN",
+    "name": "Picton",
+    "location": {
+      "lat": -41.34833,
+      "long": 173.95528
+    },
+    "runways": [
+      {
+        "name": "18",
+        "position": {
+          "lat": -41.34412,
+          "long": 173.9585
+        }
+      },
+      {
+        "name": "36",
+        "position": {
+          "lat": -41.34931,
+          "long": 173.95439
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZPO",
+    "name": "Porangahau",
+    "location": {
+      "lat": -40.28083,
+      "long": 176.6525
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -40.28083,
+          "long": 176.6525
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -40.28083,
+          "long": 176.6525
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZPP",
+    "name": "Paraparaumu",
+    "location": {
+      "lat": -40.90472,
+      "long": 174.98917
+    },
+    "runways": [
+      {
+        "name": "16",
+        "position": {
+          "lat": -40.90126,
+          "long": 174.98792
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -40.91064,
+          "long": 174.98793
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZPS",
+    "name": "Paihia Waterfront",
+    "location": {
+      "lat": -35.28185,
+      "long": 174.09295
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZPU",
+    "name": "Pukekohe",
+    "location": {
+      "lat": -37.25944,
+      "long": 174.9075
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -37.25944,
+          "long": 174.9075
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -37.25944,
+          "long": 174.9075
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZPW",
+    "name": "Papawai",
+    "location": {
+      "lat": -41.10417,
+      "long": 175.5
+    },
+    "runways": [
+      {
+        "name": "03",
+        "position": {
+          "lat": -41.10905,
+          "long": 175.49239
+        }
+      },
+      {
+        "name": "21",
+        "position": {
+          "lat": -41.09966,
+          "long": 175.50749
+        }
+      },
+      {
+        "name": "11",
+        "position": {
+          "lat": -41.10417,
+          "long": 175.5
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -41.10417,
+          "long": 175.5
+        }
+      },
+      {
+        "name": "12",
+        "position": {
+          "lat": -41.10194,
+          "long": 175.49684
+        }
+      },
+      {
+        "name": "30",
+        "position": {
+          "lat": -41.10394,
+          "long": 175.49901
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZQN",
+    "name": "Queenstown",
+    "location": {
+      "lat": -45.02124,
+      "long": 168.73925
+    },
+    "runways": [
+      {
+        "name": "05",
+        "position": {
+          "lat": -45.02,
+          "long": 168.73569
+        }
+      },
+      {
+        "name": "23",
+        "position": {
+          "lat": -45.01654,
+          "long": 168.75773
+        }
+      },
+      {
+        "name": "14",
+        "position": {
+          "lat": -45.01778,
+          "long": 168.7412
+        }
+      },
+      {
+        "name": "32",
+        "position": {
+          "lat": -45.02392,
+          "long": 168.74416
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZQW",
+    "name": "Queens Wharf",
+    "location": {
+      "lat": -41.28583,
+      "long": 174.78
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZRA",
+    "name": "Raglan",
+    "location": {
+      "lat": -37.80472,
+      "long": 174.86
+    },
+    "runways": [
+      {
+        "name": "05",
+        "position": {
+          "lat": -37.80607,
+          "long": 174.85606
+        }
+      },
+      {
+        "name": "23",
+        "position": {
+          "lat": -37.8042,
+          "long": 174.86226
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZRC",
+    "name": "Ryans Creek",
+    "location": {
+      "lat": -46.89972,
+      "long": 168.10194
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -46.90102,
+          "long": 168.09747
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -46.89846,
+          "long": 168.10486
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZRD",
+    "name": "Rosedale",
+    "location": {
+      "lat": -36.74259,
+      "long": 174.71593
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZRI",
+    "name": "Rakitata Island",
+    "location": {
+      "lat": -44.085,
+      "long": 171.41583
+    },
+    "runways": [
+      {
+        "name": "03",
+        "position": {
+          "lat": -44.08794,
+          "long": 171.4167
+        }
+      },
+      {
+        "name": "21",
+        "position": {
+          "lat": -44.08476,
+          "long": 171.42253
+        }
+      },
+      {
+        "name": "12",
+        "position": {
+          "lat": -44.07996,
+          "long": 171.41087
+        }
+      },
+      {
+        "name": "30",
+        "position": {
+          "lat": -44.08737,
+          "long": 171.41811
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZRK",
+    "name": "Rangitaiki",
+    "location": {
+      "lat": -38.88667,
+      "long": 176.36361
+    },
+    "runways": [
+      {
+        "name": "16",
+        "position": {
+          "lat": -38.87928,
+          "long": 176.36466
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -38.89312,
+          "long": 176.36423
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZRL",
+    "name": "Rotorua Lakes",
+    "location": {
+      "lat": -38.11333,
+      "long": 176.27639
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZRN",
+    "name": "Ranfurly Medical Centre",
+    "location": {
+      "lat": -45.12966,
+      "long": 170.11068
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZRO",
+    "name": "Rotorua",
+    "location": {
+      "lat": -38.10917,
+      "long": 176.31722
+    },
+    "runways": [
+      {
+        "name": "18",
+        "position": {
+          "lat": -38.10044,
+          "long": 176.32034
+        }
+      },
+      {
+        "name": "36",
+        "position": {
+          "lat": -38.11549,
+          "long": 176.31144
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZRR",
+    "name": "Ruatoria",
+    "location": {
+      "lat": -37.88396,
+      "long": 178.29003
+    },
+    "runways": [
+      {
+        "name": "09",
+        "position": {
+          "lat": -37.94048,
+          "long": 176.14091
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -37.94083,
+          "long": 176.14229
+        }
+      },
+      {
+        "name": "10",
+        "position": {
+          "lat": -37.88396,
+          "long": 178.29003
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -37.88396,
+          "long": 178.29003
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZRT",
+    "name": "Rangiora",
+    "location": {
+      "lat": -43.29,
+      "long": 172.54167
+    },
+    "runways": [
+      {
+        "name": "03",
+        "position": {
+          "lat": -43.29118,
+          "long": 172.54038
+        }
+      },
+      {
+        "name": "21",
+        "position": {
+          "lat": -43.2885,
+          "long": 172.54575
+        }
+      },
+      {
+        "name": "04",
+        "position": {
+          "lat": -43.29076,
+          "long": 172.54007
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -43.28865,
+          "long": 172.54575
+        }
+      },
+      {
+        "name": "07",
+        "position": {
+          "lat": -43.28876,
+          "long": 172.53461
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -43.28897,
+          "long": 172.54785
+        }
+      },
+      {
+        "name": "10",
+        "position": {
+          "lat": -43.28754,
+          "long": 172.53567
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -43.29093,
+          "long": 172.54282
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZRW",
+    "name": "Ruawai",
+    "location": {
+      "lat": -36.09583,
+      "long": 173.97528
+    },
+    "runways": [
+      {
+        "name": "07",
+        "position": {
+          "lat": -36.09711,
+          "long": 173.97351
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -36.09718,
+          "long": 173.98224
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZRX",
+    "name": "Roxburgh",
+    "location": {
+      "lat": -45.51167,
+      "long": 169.31667
+    },
+    "runways": [
+      {
+        "name": "16",
+        "position": {
+          "lat": -45.51167,
+          "long": 169.31667
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -45.51167,
+          "long": 169.31667
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZSD",
+    "name": "Stratford",
+    "location": {
+      "lat": -39.31889,
+      "long": 174.31028
+    },
+    "runways": [
+      {
+        "name": "09",
+        "position": {
+          "lat": -39.31622,
+          "long": 174.30318
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -39.31924,
+          "long": 174.31334
+        }
+      },
+      {
+        "name": "16",
+        "position": {
+          "lat": -39.31889,
+          "long": 174.31028
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -39.31889,
+          "long": 174.31028
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZSF",
+    "name": "Springfield",
+    "location": {
+      "lat": -43.38361,
+      "long": 171.91111
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -43.38537,
+          "long": 171.90695
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -43.38156,
+          "long": 171.91617
+        }
+      },
+      {
+        "name": "10",
+        "position": {
+          "lat": -43.38163,
+          "long": 171.90744
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -43.38622,
+          "long": 171.91586
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZSL",
+    "name": "Springhill",
+    "location": {
+      "lat": -36.325,
+      "long": 174.55556
+    },
+    "runways": [
+      {
+        "name": "16",
+        "position": {
+          "lat": -36.32066,
+          "long": 174.55594
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -36.32526,
+          "long": 174.5559
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZSO",
+    "name": "Marlborough Sounds",
+    "location": {
+      "lat": -41.25556,
+      "long": 174.02167
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZTC",
+    "name": "Tapanui Medical Centre",
+    "location": {
+      "lat": -45.93806,
+      "long": 169.26333
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZTE",
+    "name": "Te Kowhai",
+    "location": {
+      "lat": -37.745,
+      "long": 175.15861
+    },
+    "runways": [
+      {
+        "name": "05",
+        "position": {
+          "lat": -37.74584,
+          "long": 175.15631
+        }
+      },
+      {
+        "name": "23",
+        "position": {
+          "lat": -37.74269,
+          "long": 175.16663
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTG",
+    "name": "Tauranga",
+    "location": {
+      "lat": -37.67194,
+      "long": 176.19611
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -37.67146,
+          "long": 176.18764
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -37.66866,
+          "long": 176.19396
+        }
+      },
+      {
+        "name": "07",
+        "position": {
+          "lat": -37.67275,
+          "long": 176.18839
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -37.67381,
+          "long": 176.20906
+        }
+      },
+      {
+        "name": "16",
+        "position": {
+          "lat": -37.67045,
+          "long": 176.1947
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -37.67562,
+          "long": 176.19421
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTH",
+    "name": "Thames",
+    "location": {
+      "lat": -37.15667,
+      "long": 175.55028
+    },
+    "runways": [
+      {
+        "name": "05",
+        "position": {
+          "lat": -37.16169,
+          "long": 175.54572
+        }
+      },
+      {
+        "name": "23",
+        "position": {
+          "lat": -37.15964,
+          "long": 175.55176
+        }
+      },
+      {
+        "name": "14",
+        "position": {
+          "lat": -37.15699,
+          "long": 175.54654
+        }
+      },
+      {
+        "name": "32",
+        "position": {
+          "lat": -37.16462,
+          "long": 175.55026
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTI",
+    "name": "Taieri",
+    "location": {
+      "lat": -45.86,
+      "long": 170.35833
+    },
+    "runways": [
+      {
+        "name": "05",
+        "position": {
+          "lat": -45.86246,
+          "long": 170.35838
+        }
+      },
+      {
+        "name": "23",
+        "position": {
+          "lat": -45.85974,
+          "long": 170.36794
+        }
+      },
+      {
+        "name": "11",
+        "position": {
+          "lat": -45.85832,
+          "long": 170.35701
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -45.8618,
+          "long": 170.36394
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTK",
+    "name": "Takaka",
+    "location": {
+      "lat": -40.81342,
+      "long": 172.77606
+    },
+    "runways": [
+      {
+        "name": "11",
+        "position": {
+          "lat": -40.8116,
+          "long": 172.77315
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -40.81487,
+          "long": 172.77751
+        }
+      },
+      {
+        "name": "18",
+        "position": {
+          "lat": -40.81118,
+          "long": 172.77753
+        }
+      },
+      {
+        "name": "36",
+        "position": {
+          "lat": -40.81732,
+          "long": 172.77455
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTL",
+    "name": "Tekapo",
+    "location": {
+      "lat": -44.005,
+      "long": 170.44167
+    },
+    "runways": [
+      {
+        "name": "11",
+        "position": {
+          "lat": -44.00226,
+          "long": 170.43999
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -44.00741,
+          "long": 170.44698
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTM",
+    "name": "Taumarunui",
+    "location": {
+      "lat": -38.84333,
+      "long": 175.25528
+    },
+    "runways": [
+      {
+        "name": "01",
+        "position": {
+          "lat": -38.84325,
+          "long": 175.25853
+        }
+      },
+      {
+        "name": "19",
+        "position": {
+          "lat": -38.83436,
+          "long": 175.26637
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTN",
+    "name": "Turangi",
+    "location": {
+      "lat": -38.96833,
+      "long": 175.81361
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -38.97109,
+          "long": 175.81105
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -38.96494,
+          "long": 175.81688
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTO",
+    "name": "Tokoroa",
+    "location": {
+      "lat": -38.23667,
+      "long": 175.89278
+    },
+    "runways": [
+      {
+        "name": "13",
+        "position": {
+          "lat": -38.23542,
+          "long": 175.89174
+        }
+      },
+      {
+        "name": "31",
+        "position": {
+          "lat": -38.24171,
+          "long": 175.89735
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTP",
+    "name": "Tekapo / Mackenzie",
+    "location": {
+      "lat": -44.01278,
+      "long": 170.40667
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZTQ",
+    "name": "Te Kuiti Hospital",
+    "location": {
+      "lat": -38.33379,
+      "long": 175.15181
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZTR",
+    "name": "Te Araroa",
+    "location": {
+      "lat": -37.62917,
+      "long": 178.3475
+    },
+    "runways": [
+      {
+        "name": "10",
+        "position": {
+          "lat": -37.62917,
+          "long": 178.3475
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -37.62917,
+          "long": 178.3475
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTS",
+    "name": "Tasman",
+    "location": {
+      "lat": -41.20456,
+      "long": 173.04937
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZTT",
+    "name": "Te Kuiti",
+    "location": {
+      "lat": -38.30333,
+      "long": 175.14694
+    },
+    "runways": [
+      {
+        "name": "16",
+        "position": {
+          "lat": -38.30017,
+          "long": 175.14767
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -38.30712,
+          "long": 175.14767
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTU",
+    "name": "Timaru",
+    "location": {
+      "lat": -44.30278,
+      "long": 171.22528
+    },
+    "runways": [
+      {
+        "name": "02",
+        "position": {
+          "lat": -44.30327,
+          "long": 171.22064
+        }
+      },
+      {
+        "name": "20",
+        "position": {
+          "lat": -44.29463,
+          "long": 171.23126
+        }
+      },
+      {
+        "name": "11",
+        "position": {
+          "lat": -44.30032,
+          "long": 171.22543
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -44.30607,
+          "long": 171.23428
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZTW",
+    "name": "Twizel Medical Centre",
+    "location": {
+      "lat": -44.26111,
+      "long": 170.09776
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZTX",
+    "name": "Te Anau Medical Centre",
+    "location": {
+      "lat": -45.41618,
+      "long": 167.71989
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZTZ",
+    "name": "Timaru Hospital",
+    "location": {
+      "lat": -44.40919,
+      "long": 171.25553
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZUA",
+    "name": "Maui A",
+    "location": {
+      "lat": -39.555,
+      "long": 173.44944
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZUB",
+    "name": "Maui B",
+    "location": {
+      "lat": -39.64528,
+      "long": 173.31583
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZUK",
+    "name": "Pukaki",
+    "location": {
+      "lat": -44.235,
+      "long": 170.11833
+    },
+    "runways": [
+      {
+        "name": "07",
+        "position": {
+          "lat": -44.235,
+          "long": 170.11833
+        }
+      },
+      {
+        "name": "25",
+        "position": {
+          "lat": -44.235,
+          "long": 170.11833
+        }
+      },
+      {
+        "name": "15",
+        "position": {
+          "lat": -44.23353,
+          "long": 170.11848
+        }
+      },
+      {
+        "name": "33",
+        "position": {
+          "lat": -44.24319,
+          "long": 170.12024
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZUN",
+    "name": "Pauanui Beach",
+    "location": {
+      "lat": -37.02167,
+      "long": 175.86361
+    },
+    "runways": [
+      {
+        "name": "05",
+        "position": {
+          "lat": -37.02208,
+          "long": 175.86001
+        }
+      },
+      {
+        "name": "23",
+        "position": {
+          "lat": -37.01977,
+          "long": 175.86724
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZUR",
+    "name": "Murchison Hospital",
+    "location": {
+      "lat": -41.80639,
+      "long": 172.32861
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZVL",
+    "name": "Mandeville",
+    "location": {
+      "lat": -45.99028,
+      "long": 168.81222
+    },
+    "runways": [
+      {
+        "name": "09",
+        "position": {
+          "lat": -45.98961,
+          "long": 168.80994
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -45.99281,
+          "long": 168.81866
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZVR",
+    "name": "Taihape",
+    "location": {
+      "lat": -39.685,
+      "long": 175.78861
+    },
+    "runways": [
+      {
+        "name": "06",
+        "position": {
+          "lat": -39.68653,
+          "long": 175.78641
+        }
+      },
+      {
+        "name": "24",
+        "position": {
+          "lat": -39.68511,
+          "long": 175.79422
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWB",
+    "name": "Woodbourne",
+    "location": {
+      "lat": -41.51833,
+      "long": 173.87028
+    },
+    "runways": [
+      {
+        "name": "06",
+        "position": {
+          "lat": -41.51832,
+          "long": 173.86087
+        }
+      },
+      {
+        "name": "24",
+        "position": {
+          "lat": -41.51742,
+          "long": 173.87791
+        }
+      },
+      {
+        "name": "10",
+        "position": {
+          "lat": -41.51431,
+          "long": 173.8636
+        }
+      },
+      {
+        "name": "28",
+        "position": {
+          "lat": -41.51963,
+          "long": 173.87499
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWE",
+    "name": "Kauaroa Bay",
+    "location": {
+      "lat": -36.82972,
+      "long": 175.06556
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZWF",
+    "name": "Wanaka",
+    "location": {
+      "lat": -44.72222,
+      "long": 169.24556
+    },
+    "runways": [
+      {
+        "name": "11",
+        "position": {
+          "lat": -44.71806,
+          "long": 169.24131
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -44.72611,
+          "long": 169.25139
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWG",
+    "name": "Whangamata",
+    "location": {
+      "lat": -37.20056,
+      "long": 175.86667
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZWH",
+    "name": "Wellington Hospital",
+    "location": {
+      "lat": -41.30833,
+      "long": 174.77944
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZWJ",
+    "name": "Wellsford",
+    "location": {
+      "lat": -36.29706,
+      "long": 174.52292
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZWK",
+    "name": "Whakatane",
+    "location": {
+      "lat": -37.92015,
+      "long": 176.91322
+    },
+    "runways": [
+      {
+        "name": "09",
+        "position": {
+          "lat": -37.91994,
+          "long": 176.90998
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -37.92432,
+          "long": 176.92346
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWL",
+    "name": "West Melton",
+    "location": {
+      "lat": -43.47667,
+      "long": 172.39667
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -43.47889,
+          "long": 172.38788
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -43.47555,
+          "long": 172.39874
+        }
+      },
+      {
+        "name": "04L",
+        "position": {
+          "lat": -43.47667,
+          "long": 172.39667
+        }
+      },
+      {
+        "name": "22R",
+        "position": {
+          "lat": -43.47667,
+          "long": 172.39667
+        }
+      },
+      {
+        "name": "04R",
+        "position": {
+          "lat": -43.47667,
+          "long": 172.39667
+        }
+      },
+      {
+        "name": "22L",
+        "position": {
+          "lat": -43.47667,
+          "long": 172.39667
+        }
+      },
+      {
+        "name": "11",
+        "position": {
+          "lat": -43.47483,
+          "long": 172.39235
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -43.4797,
+          "long": 172.3997
+        }
+      },
+      {
+        "name": "17",
+        "position": {
+          "lat": -43.47526,
+          "long": 172.38995
+        }
+      },
+      {
+        "name": "35",
+        "position": {
+          "lat": -43.48134,
+          "long": 172.38812
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWM",
+    "name": "Waimate",
+    "location": {
+      "lat": -44.79,
+      "long": 171.09167
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -44.79102,
+          "long": 171.08827
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -44.78841,
+          "long": 171.09557
+        }
+      },
+      {
+        "name": "08",
+        "position": {
+          "lat": -44.78892,
+          "long": 171.0838
+        }
+      },
+      {
+        "name": "26",
+        "position": {
+          "lat": -44.79018,
+          "long": 171.08966
+        }
+      },
+      {
+        "name": "09",
+        "position": {
+          "lat": -44.78992,
+          "long": 171.08728
+        }
+      },
+      {
+        "name": "27",
+        "position": {
+          "lat": -44.79163,
+          "long": 171.09357
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWN",
+    "name": "Wellington",
+    "location": {
+      "lat": -41.32722,
+      "long": 174.80528
+    },
+    "runways": [
+      {
+        "name": "16",
+        "position": {
+          "lat": -41.31862,
+          "long": 174.80746
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -41.33494,
+          "long": 174.80636
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWO",
+    "name": "Wairoa",
+    "location": {
+      "lat": -39.01534,
+      "long": 177.40418
+    },
+    "runways": [
+      {
+        "name": "16",
+        "position": {
+          "lat": -39.00755,
+          "long": 177.40407
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -39.01575,
+          "long": 177.40471
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWP",
+    "name": "Whenuapai",
+    "location": {
+      "lat": -36.78777,
+      "long": 174.63026
+    },
+    "runways": [
+      {
+        "name": "03",
+        "position": {
+          "lat": -36.79618,
+          "long": 174.62089
+        }
+      },
+      {
+        "name": "21",
+        "position": {
+          "lat": -36.78515,
+          "long": 174.63905
+        }
+      },
+      {
+        "name": "08",
+        "position": {
+          "lat": -36.78376,
+          "long": 174.62347
+        }
+      },
+      {
+        "name": "26",
+        "position": {
+          "lat": -36.78573,
+          "long": 174.64101
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWQ",
+    "name": "Waitiki",
+    "location": {
+      "lat": -34.52694,
+      "long": 172.83833
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZWR",
+    "name": "Whangarei",
+    "location": {
+      "lat": -35.76833,
+      "long": 174.365
+    },
+    "runways": [
+      {
+        "name": "06",
+        "position": {
+          "lat": -35.76987,
+          "long": 174.35782
+        }
+      },
+      {
+        "name": "24",
+        "position": {
+          "lat": -35.76837,
+          "long": 174.36982
+        }
+      },
+      {
+        "name": "14",
+        "position": {
+          "lat": -35.76963,
+          "long": 174.35907
+        }
+      },
+      {
+        "name": "32",
+        "position": {
+          "lat": -35.77362,
+          "long": 174.36096
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWS",
+    "name": "Westport",
+    "location": {
+      "lat": -41.73806,
+      "long": 171.58083
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -41.74026,
+          "long": 171.57261
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -41.73391,
+          "long": 171.58547
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWT",
+    "name": "Whitianga",
+    "location": {
+      "lat": -36.83167,
+      "long": 175.67861
+    },
+    "runways": [
+      {
+        "name": "04",
+        "position": {
+          "lat": -36.83231,
+          "long": 175.67632
+        }
+      },
+      {
+        "name": "22",
+        "position": {
+          "lat": -36.82563,
+          "long": 175.68855
+        }
+      },
+      {
+        "name": "16",
+        "position": {
+          "lat": -36.82544,
+          "long": 175.67992
+        }
+      },
+      {
+        "name": "34",
+        "position": {
+          "lat": -36.83121,
+          "long": 175.68021
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWU",
+    "name": "Whanganui",
+    "location": {
+      "lat": -39.96222,
+      "long": 175.02528
+    },
+    "runways": [
+      {
+        "name": "08",
+        "position": {
+          "lat": -39.96246,
+          "long": 175.02007
+        }
+      },
+      {
+        "name": "26",
+        "position": {
+          "lat": -39.96378,
+          "long": 175.02773
+        }
+      },
+      {
+        "name": "11",
+        "position": {
+          "lat": -39.95977,
+          "long": 175.01804
+        }
+      },
+      {
+        "name": "29",
+        "position": {
+          "lat": -39.96717,
+          "long": 175.03085
+        }
+      },
+      {
+        "name": "14",
+        "position": {
+          "lat": -39.95991,
+          "long": 175.02101
+        }
+      },
+      {
+        "name": "32",
+        "position": {
+          "lat": -39.96745,
+          "long": 175.02519
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWV",
+    "name": "Waihi Beach",
+    "location": {
+      "lat": -37.43,
+      "long": 175.95194
+    },
+    "runways": [
+      {
+        "name": "13",
+        "position": {
+          "lat": -37.42822,
+          "long": 175.95059
+        }
+      },
+      {
+        "name": "31",
+        "position": {
+          "lat": -37.43219,
+          "long": 175.95377
+        }
+      }
+    ]
+  },
+  {
+    "icao": "NZWZ",
+    "name": "Warkworth",
+    "location": {
+      "lat": -36.39771,
+      "long": 174.65866
+    },
+    "runways": []
+  },
+  {
+    "icao": "NZYP",
+    "name": "Waipukurau",
+    "location": {
+      "lat": -39.99667,
+      "long": 176.53694
+    },
+    "runways": []
+  }
+]
