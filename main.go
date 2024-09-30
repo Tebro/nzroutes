@@ -85,7 +85,7 @@ func main() {
 
 		utils.ClearTerm()
 		fmt.Println("NZRoutes, relevant routes")
-		table := termtable.New("Callsign", "Departure", "Arrival", "Route ID", "Route Points", "Remarks", "Valid?")
+		table := termtable.New("Callsign", "Departure", "Arrival", "Route ID", "Route Points", "Remarks", "Flight plan matches? (WIP)")
 
 		for _, pilot := range routeRelevantPilots {
 			depFieldRoutes, ok := routesData.Routes[pilot.FlightPlan.Departure]
