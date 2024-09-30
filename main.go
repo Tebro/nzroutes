@@ -108,8 +108,9 @@ func main() {
 			}
 		}
 
-		arrivalRelevantPilots := filterCloseToArrivalPilots(internalPilots, airfieldsData)
-		metarRelevantPilots := append(routeRelevantPilots, arrivalRelevantPilots...)
+		metarArrivalRelevantPilots := filterCloseToArrivalPilots(relevant, airfieldsData)
+		metarDepartureRelevantPilots := filterCloseToDepPilots(relevant, airfieldsData)
+		metarRelevantPilots := append(metarDepartureRelevantPilots, metarArrivalRelevantPilots...)
 		uniqueIcaos := make(map[string]bool)
 		for _, pilot := range metarRelevantPilots {
 			uniqueIcaos[pilot.FlightPlan.Departure] = true
