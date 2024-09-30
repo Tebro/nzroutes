@@ -4,6 +4,7 @@ import (
 	_ "embed"
 	"fmt"
 	"log"
+	"sort"
 	"strings"
 	"time"
 
@@ -127,8 +128,13 @@ func main() {
 		}
 
 		fmt.Println("\n\nCurrently relevant METARs")
-		// TODO: Sort by ICAO
+		uniqueIcaosSlice := make([]string, 0, len(uniqueIcaos))
 		for icao := range uniqueIcaos {
+			uniqueIcaosSlice = append(uniqueIcaosSlice, icao)
+		}
+		sort.Strings(uniqueIcaosSlice)
+
+		for _, icao := range uniqueIcaosSlice {
 			metar, err := vatsimmetar.GetMetar(icao)
 			if err != nil {
 				log.Printf("Could not get METAR for %s: %v\n", icao, err)
