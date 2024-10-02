@@ -121,7 +121,7 @@ func main() {
 		}
 		table.Print()
 
-		metarArrivalRelevantPilots := filterCloseToArrivalPilots(relevant, airfieldsData)
+		metarArrivalRelevantPilots := filterCloseToArrivalPilots(internalPilots, airfieldsData)
 		metarDepartureRelevantPilots := filterCloseToDepPilots(relevant, airfieldsData)
 		metarRelevantPilots := append(metarDepartureRelevantPilots, metarArrivalRelevantPilots...)
 		uniqueIcaos := make(map[string]bool)
