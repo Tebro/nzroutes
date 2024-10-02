@@ -109,12 +109,14 @@ func main() {
 					}
 					table.AddRow("", "", "", route.Id, route.RoutePoints(), route.Remarks.String(), validationResult)
 				}
-			} else {
+			} else if len(relevantRoutes) == 1 {
 				validationResult := "Valid"
 				if !routevalidation.ValidatePilotRoute(pilot.FlightPlan, relevantRoutes[0]) {
 					validationResult = "Invalid"
 				}
 				table.AddRow(pilot.Callsign, pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, relevantRoutes[0].Id, relevantRoutes[0].RoutePoints(), relevantRoutes[0].Remarks.String(), validationResult)
+			} else {
+				table.AddRow(pilot.Callsign, pilot.FlightPlan.Departure, pilot.FlightPlan.Arrival, "No route found")
 			}
 		}
 		table.Print()
